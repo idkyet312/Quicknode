@@ -41,7 +41,7 @@ After starting Katana, find the **Quicknode** tab in the UI.
 
 ## License
 
-MIT
+GNU General Public License v3.0
 
 ---
 
